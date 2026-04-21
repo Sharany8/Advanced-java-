@@ -1,5 +1,0 @@
-CREATE TABLE Emp (
-    Emp_NO INTEGER PRIMARY KEY,
-    Emp_Name VARCHAR(100) NOT NULL,
-    Basicsalary INTEGER
-);
